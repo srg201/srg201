@@ -1,7 +1,7 @@
 <div align="center">
   <p style="font-size: 1.5em; color: #555;">Full Stack Web Developer</p>
   
-  [![LinkedIn](www.linkedin.com/in/sergey-belyakov-1b7641349)](https://linkedin.com/in/yourusername)
+  [LinkedIn](www.linkedin.com/in/sergey-belyakov-1b7641349)
   
   <p style="max-width: 600px; margin: 20px auto;">
     Passionate about crafting efficient, scalable, and user-friendly web applications. Specializing in modern JavaScript frameworks (React). Always eager to learn and contribute to innovative projects.
