@@ -1,5 +1,4 @@
 <div align="center">
-  <h1 style="border: none; margin-bottom: 0;">Sergey</h1>
   <p style="font-size: 1.2em; color: #555;">Full Stack Web Developer</p>
   
   [![LinkedIn](www.linkedin.com/in/sergey-belyakov-1b7641349)](https://linkedin.com/in/yourusername)
