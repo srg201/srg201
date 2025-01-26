@@ -1,5 +1,5 @@
 <div align="center">
-  <p style="font-size: 1.2em; color: #555;">Full Stack Web Developer</p>
+  <p style="font-size: 1.5em; color: #555;">Full Stack Web Developer</p>
   
   [![LinkedIn](www.linkedin.com/in/sergey-belyakov-1b7641349)](https://linkedin.com/in/yourusername)
   
