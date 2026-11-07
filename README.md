@@ -53,10 +53,6 @@ I'm a full-stack developer working mostly in **React / Next.js** on the frontend
 
 </details>
 
-## GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srg201&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top languages" height="160">
-
 ---
 
 <sub>Have a project in mind? Email me at <a href="mailto:belyakov329@gmail.com">belyakov329@gmail.com</a> or message me on <a href="https://linkedin.com/in/sergey-belyakov-1b7641349">LinkedIn</a>.</sub>
