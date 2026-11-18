@@ -32,7 +32,7 @@ I'm a full-stack developer working mostly in **React / Next.js** on the frontend
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/srg201/outpost"><img src="https://raw.githubusercontent.com/srg201/outpost/main/docs/workspace.jpg" alt="Outpost"></a><br><b><a href="https://github.com/srg201/outpost">Outpost</a></b> · <a href="https://outpost-gray.vercel.app">Live</a><br><sub>Real-time workspace: collaborative doc + canvas + AI agent with reviewable edits · Next.js 16, Clerk teams &amp; billing, Supabase, Yjs, tldraw, Gemini</sub></td>
+<td width="50%" valign="top"><a href="https://github.com/srg201/outpost"><img src="https://raw.githubusercontent.com/srg201/outpost/main/public/social/og-image.png" alt="Outpost"></a><br><b><a href="https://github.com/srg201/outpost">Outpost</a></b> · <a href="https://outpost-gray.vercel.app">Live</a><br><sub>Real-time workspace: collaborative doc + canvas + AI agent with reviewable edits · Next.js 16, Clerk teams &amp; billing, Supabase, Yjs, tldraw, Gemini</sub></td>
 <td width="50%" valign="top"><a href="https://github.com/srg201/healthcare-platform"><img src="https://raw.githubusercontent.com/srg201/healthcare-platform/main/docs/screenshots/landing.jpg" alt="Halden: clinic booking"></a><br><b><a href="https://github.com/srg201/healthcare-platform">Halden: clinic booking</a></b> · <a href="https://healthcare-platform-fawn.vercel.app">Live</a><br><sub>Patient portal + staff dashboard, role-based auth, double booking blocked at DB level · Next.js 16, Appwrite, tests + CI</sub></td>
 </tr>
 <tr>
