@@ -2,20 +2,42 @@
 
 ### Hi, I'm Siarhei 👋
 
-I'm a full-stack developer working mostly in **React / Next.js** on the frontend and **Node.js / NestJS** on the backend. I build landing pages, SaaS MVPs, dashboards and APIs, and I deploy them myself with Docker, Nginx and Vercel.
+Full-stack developer focused on **Next.js + Supabase SaaS**: multi-tenant apps, auth and roles, Stripe billing, real-time collaboration and AI agents. I take products from Figma or an idea to production and deploy them myself (Vercel, Docker, Nginx).
 
-- 🧩 I turn Figma designs into fast, responsive, pixel-perfect interfaces
-- ⚙️ I build typed backends with NestJS, Prisma, Drizzle, tRPC and PostgreSQL
-- 🤖 I add AI features to products: agents with tool calling, OpenAI and Gemini APIs
-- 🔄 I build real-time apps: collaborative editing (Yjs), live presence, WebSockets
-- 🌍 I've shipped production sites for clients in New Zealand, Israel and Canada
-- 💼 **Open to freelance projects and full-time roles**
+- 🚀 **SaaS products**: Next.js 16, TypeScript, Supabase / PostgreSQL with RLS, Clerk, Stripe
+- 🤖 **AI features**: agents with tool calling and reviewable edits, OpenAI, Claude and Gemini APIs
+- 🔄 **Real-time**: collaborative editing with Yjs, live presence, Supabase Realtime, Convex
+- ⚙️ **Backends**: NestJS, tRPC, Prisma, Drizzle, headless CMS (Strapi)
+- 🌍 Shipped production sites for clients in **New Zealand, Israel and Canada**
+- 💼 **Open to freelance projects and full-time remote roles**
 
 <p>
   <a href="https://linkedin.com/in/sergey-belyakov-1b7641349"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:belyakov329@gmail.com"><img src="https://img.shields.io/badge/Email-belyakov329@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.upwork.com/freelancers/~0192854087aea2edb6"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
   <a href="https://www.fiverr.com/siarheibeliakou"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
 </p>
+
+## Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/srg201/outpost"><img src="assets/covers/outpost.png" alt="Outpost"></a><br><b><a href="https://github.com/srg201/outpost">Outpost</a></b> · <a href="https://outpost-gray.vercel.app">Live ↗</a><br><sub>Real-time workspace: collaborative doc + infinite canvas + an AI agent whose edits you accept or reject · Next.js 16, Clerk teams &amp; billing, Supabase, Yjs, tldraw, Gemini</sub></td>
+<td width="50%" valign="top"><a href="https://github.com/srg201/healthcare-platform"><img src="assets/covers/healthcare-platform.png" alt="Halden: clinic booking"></a><br><b><a href="https://github.com/srg201/healthcare-platform">Halden: clinic booking</a></b> · <a href="https://healthcare-platform-fawn.vercel.app">Live ↗</a><br><sub>Patient portal + staff dashboard, role-based access, double booking blocked at the database level · Next.js 16, React 19, Appwrite, tests + CI</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/srg201/nextpro"><img src="assets/covers/nextpro.png" alt="NextPro"></a><br><b><a href="https://github.com/srg201/nextpro">NextPro</a></b> · <a href="https://nextpro-rho.vercel.app">Live ↗</a><br><sub>Tutorial platform with live readers, comments, full-text search and mandatory 2FA · Next.js 16 Cache Components, Convex, Better Auth</sub></td>
+<td width="50%" valign="top"><a href="https://github.com/srg201/x-plane"><img src="assets/covers/x-plane.png" alt="XPlane Labs"></a><br><b><a href="https://github.com/srg201/x-plane">XPlane Labs</a></b> · <a href="https://xplanelabs.nz">Live ↗</a><br><sub>Production site for a New Zealand aerospace firm, fully editable by the client · Next.js, Strapi CMS, PostgreSQL, Docker + Nginx on a VPS</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/srg201/csgo-investing-app"><img src="assets/covers/csgo-investing-app.png" alt="CS2 Case Investor"></a><br><b><a href="https://github.com/srg201/csgo-investing-app">CS2 Case Investor</a></b><br><sub>Steam Market price history, ROI from any purchase date and AI news summaries · Next.js + NestJS + Prisma + PostgreSQL, Docker</sub></td>
+<td width="50%" valign="top"><a href="https://github.com/srg201/birrlink"><img src="assets/covers/birrlink.png" alt="BirrLink"></a><br><b><a href="https://github.com/srg201/birrlink">BirrLink</a></b> · <a href="https://birrlink.vercel.app">Live ↗</a><br><sub>Marketing site for a Canada → Ethiopia money transfer service · Next.js, TypeScript, shadcn/ui, Docker</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/srg201/apex-landing"><img src="assets/covers/apex-landing.png" alt="Apex Nerd Labs"></a><br><b><a href="https://github.com/srg201/apex-landing">Apex Nerd Labs</a></b> · <a href="https://apex-landing.vercel.app">Live ↗</a><br><sub>Design + development for a client's AI service: Framer Motion, dark mode, branded emails from the contact form · Next.js, React Email</sub></td>
+<td width="50%" valign="top"><a href="https://github.com/srg201/fatfish"><img src="assets/covers/fatfish.png" alt="FatFish"></a><br><b><a href="https://github.com/srg201/fatfish">FatFish</a></b> · <a href="https://www.fatfish.co.il/campaign/2025audit">Live ↗</a><br><sub>Pixel-perfect RTL (Hebrew) campaign page for an Israeli web agency, Figma to code · HTML, CSS, JavaScript</sub></td>
+</tr>
+</table>
 
 ## Tech stack
 
@@ -27,34 +49,6 @@ I'm a full-stack developer working mostly in **React / Next.js** on the frontend
 
 **DevOps and tools**<br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-
-## Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/srg201/outpost"><img src="https://raw.githubusercontent.com/srg201/outpost/main/public/social/og-image.png" alt="Outpost"></a><br><b><a href="https://github.com/srg201/outpost">Outpost</a></b> · <a href="https://outpost-gray.vercel.app">Live</a><br><sub>Real-time workspace: collaborative doc + canvas + AI agent with reviewable edits · Next.js 16, Clerk teams &amp; billing, Supabase, Yjs, tldraw, Gemini</sub></td>
-<td width="50%" valign="top"><a href="https://github.com/srg201/healthcare-platform"><img src="https://raw.githubusercontent.com/srg201/healthcare-platform/main/docs/screenshots/landing.jpg" alt="Halden: clinic booking"></a><br><b><a href="https://github.com/srg201/healthcare-platform">Halden: clinic booking</a></b> · <a href="https://healthcare-platform-fawn.vercel.app">Live</a><br><sub>Patient portal + staff dashboard, role-based auth, double booking blocked at DB level · Next.js 16, Appwrite, tests + CI</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/srg201/nextpro"><img src="https://raw.githubusercontent.com/srg201/nextpro/main/docs/screenshots/home.jpg" alt="NextPro"></a><br><b><a href="https://github.com/srg201/nextpro">NextPro</a></b> · <a href="https://nextpro-rho.vercel.app">Live</a><br><sub>Tutorial platform with live readers, comments and search; mandatory email 2FA · Next.js 16 Cache Components, Convex, Better Auth</sub></td>
-<td width="50%" valign="top"><a href="https://github.com/srg201/x-plane"><img src="https://raw.githubusercontent.com/srg201/x-plane/main/docs/preview.png" alt="XPlane Labs"></a><br><b><a href="https://github.com/srg201/x-plane">XPlane Labs</a></b> · <a href="https://xplanelabs.nz">Live</a><br><sub>Client site for a NZ aerospace firm · Next.js + Strapi CMS + PostgreSQL · Docker/Nginx on VPS</sub></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/srg201/youtube-clone"><img src="https://raw.githubusercontent.com/srg201/youtube-clone/main/docs/preview.png" alt="Video Sharing Platform"></a><br><b><a href="https://github.com/srg201/youtube-clone">Video Sharing Platform</a></b><br><sub>Mux streaming, creator studio, subscriptions, AI-generated metadata · Next.js 15, tRPC, Drizzle, Clerk</sub></td>
-<td width="50%" valign="top"><a href="https://github.com/srg201/csgo-investing-app"><img src="https://raw.githubusercontent.com/srg201/csgo-investing-app/main/docs/preview.png" alt="CS2 Case Investor"></a><br><b><a href="https://github.com/srg201/csgo-investing-app">CS2 Case Investor</a></b><br><sub>Steam Market price tracking, ROI analytics, AI news · Next.js + NestJS + Prisma</sub></td>
-</tr>
-</table>
-
-<details>
-<summary><b>More work</b></summary>
-
-- [Apex Nerd Labs](https://github.com/srg201/apex-landing): landing page for an AI service · design + dev, Framer Motion, React Email contact form · [live](https://apex-landing.vercel.app)
-- [BirrLink](https://github.com/srg201/birrlink): money transfer (Canada → Ethiopia) marketing site · Next.js, shadcn/ui · [live](https://birrlink.vercel.app)
-- [FatFish](https://github.com/srg201/fatfish): pixel-perfect RTL (Hebrew) campaign page for an Israeli agency · [live](https://www.fatfish.co.il/campaign/2025audit)
-- [HooBank](https://github.com/srg201/HooBank): fintech landing page · React, Vite, Tailwind · [live](https://hoo-bank-rouge-five.vercel.app)
-- [GPT-3 Landing](https://github.com/srg201/gpt3-landing): AI product landing page · React, Sass · [live](https://gpt3-landing-peach.vercel.app)
-
-</details>
 
 ---
 
