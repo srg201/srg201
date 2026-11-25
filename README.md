@@ -30,14 +30,12 @@ Full-stack developer focused on **Next.js + Supabase SaaS**: multi-tenant apps, 
 <td width="50%" valign="top"><a href="https://github.com/srg201/x-plane"><img src="assets/covers/x-plane.png" alt="XPlane Labs"></a><br><b><a href="https://github.com/srg201/x-plane">XPlane Labs</a></b> · <a href="https://xplanelabs.nz">Live ↗</a><br><sub>Production site for a New Zealand aerospace firm, fully editable by the client · Next.js, Strapi CMS, PostgreSQL, Docker + Nginx on a VPS</sub></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/srg201/csgo-investing-app"><img src="assets/covers/csgo-investing-app.png" alt="CS2 Case Investor"></a><br><b><a href="https://github.com/srg201/csgo-investing-app">CS2 Case Investor</a></b><br><sub>Steam Market price history, ROI from any purchase date and AI news summaries · Next.js + NestJS + Prisma + PostgreSQL, Docker</sub></td>
 <td width="50%" valign="top"><a href="https://github.com/srg201/birrlink"><img src="assets/covers/birrlink.png" alt="BirrLink"></a><br><b><a href="https://github.com/srg201/birrlink">BirrLink</a></b> · <a href="https://birrlink.vercel.app">Live ↗</a><br><sub>Marketing site for a Canada → Ethiopia money transfer service · Next.js, TypeScript, shadcn/ui, Docker</sub></td>
-</tr>
-<tr>
 <td width="50%" valign="top"><a href="https://github.com/srg201/apex-landing"><img src="assets/covers/apex-landing.png" alt="Apex Nerd Labs"></a><br><b><a href="https://github.com/srg201/apex-landing">Apex Nerd Labs</a></b> · <a href="https://apex-landing.vercel.app">Live ↗</a><br><sub>Design + development for a client's AI service: Framer Motion, dark mode, branded emails from the contact form · Next.js, React Email</sub></td>
-<td width="50%" valign="top"><a href="https://github.com/srg201/fatfish"><img src="assets/covers/fatfish.png" alt="FatFish"></a><br><b><a href="https://github.com/srg201/fatfish">FatFish</a></b> · <a href="https://www.fatfish.co.il/campaign/2025audit">Live ↗</a><br><sub>Pixel-perfect RTL (Hebrew) campaign page for an Israeli web agency, Figma to code · HTML, CSS, JavaScript</sub></td>
 </tr>
 </table>
+
+**Also:** [FatFish](https://github.com/srg201/fatfish), a pixel-perfect RTL (Hebrew) campaign page for an Israeli web agency, Figma to code · [live](https://www.fatfish.co.il/campaign/2025audit)
 
 ## Tech stack
 
